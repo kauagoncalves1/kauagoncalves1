@@ -13,9 +13,9 @@
 
 ### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="20" height="20"/> Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (UNISUAM) e desenvolvedor freelancer no Rio de Janeiro. Trabalho com negócios locais criando sites e sistemas sob medida, e venho me especializando em aprender mais sobre Inteligência Artificial.
+Sou estudante de Análise e Desenvolvimento de Sistemas (UNISUAM) e desenvolvedor freelancer no Rio de Janeiro. Trabalho com negócios locais criando sites e sistemas sob medida, e venho me especializando em integrar Inteligência Artificial (chatbots, automações e agentes) em produtos reais.
 
-- Atualmente construindo uma **SaaS próprio** com IA para atendimento via WhatsApp
+- Atualmente construindo uma **SaaS própria** com IA para atendimento via WhatsApp
 - Aprofundando conhecimento em **AI Engineering** (APIs de LLM, RAG, agentes)
 - Disponível para projetos freelance de desenvolvimento web
 
@@ -44,13 +44,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (UNISUAM) e desenvolvedo
 
 ### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/pin.svg" width="20" height="20"/> Projetos em destaque
 
-**[Renove Estética](https://github.com/kauagoncalves1)** — App em Next.js com chatbot via Groq (LLaMA 3.3 70B) e integração com WhatsApp (Evolution API), deploy na Vercel. Meu projeto mais completo, usado como case em processos seletivos.
+**[Atendia](https://github.com/kauagoncalves1/Atendia)** — Saas pessoal em desenvolvimento para pequenas empresas, onde você pode ter uma atendente com IA.
 
 **[Portfólio](https://kauagoncalves.vercel.app)** — Site pessoal feito em Next.js, React e Tailwind CSS.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauagoncalves1&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauagoncalves1&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauagoncalves1&theme=radical&hide_border=true" width="60%" />
 </p>
