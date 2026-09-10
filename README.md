@@ -13,9 +13,9 @@
 
 ### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="20" height="20"/> Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (UNISUAM) e desenvolvedor freelancer no Rio de Janeiro. Trabalho com negócios locais criando sites e sistemas sob medida, e venho me especializando em integrar Inteligência Artificial (chatbots, automações e agentes) em produtos reais.
+Sou estudante de Análise e Desenvolvimento de Sistemas (UNISUAM) e desenvolvedor freelancer no Rio de Janeiro. Trabalho com negócios locais criando sites e sistemas sob medida, e venho me especializando em aprender mais sobre Inteligência Artificial.
 
-- Atualmente construindo uma **SaaS própria** com IA para atendimento via WhatsApp
+- Atualmente construindo uma **SaaS próprio** com IA para atendimento via WhatsApp
 - Aprofundando conhecimento em **AI Engineering** (APIs de LLM, RAG, agentes)
 - Disponível para projetos freelance de desenvolvimento web
 
